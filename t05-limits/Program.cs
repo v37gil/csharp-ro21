@@ -13,3 +13,4 @@ decimal tenge = 150m * usdToKzt;
 
 Console.WriteLine($"150 USD в тенге: {tenge}");
 Console.WriteLine($"150 USD в тенге (int): {(int)tenge}");
+// Feature update part 1
